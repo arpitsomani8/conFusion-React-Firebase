@@ -1,4 +1,4 @@
 # ConFusion-React-Firebase
 Start with Create-react-app</br>
-Developed under ReactJS.
+Developed under ReactJS.<br/>
 Configured with FireBase.
